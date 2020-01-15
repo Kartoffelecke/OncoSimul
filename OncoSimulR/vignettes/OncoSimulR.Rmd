@@ -9196,7 +9196,7 @@ plot(simul_period_fix, show = "genotypes", type = "line",
 plot(simul_period_fix, show = "genotypes", ylim = c(20, 8000))
 ```
 
-As expected by @Archetti2018, the tumour will be biased towards P mutant. Even if its fitness is lower than C's because of its overproduction of GF, it will assure its survival and proliferation when chemotherapy is applied. As a result of this, D does not completely disappear (as it has happened to C), but it has drastically reduced its number. 
+As expected by @archetti2019, the tumour will be biased towards P mutant. Even if its fitness is lower than C's because of its overproduction of GF, it will assure its survival and proliferation when chemotherapy is applied. As a result of this, D does not completely disappear (as it has happened to C), but it has drastically reduced its number. 
 
 
 
